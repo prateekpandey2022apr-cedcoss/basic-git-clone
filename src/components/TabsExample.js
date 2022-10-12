@@ -13,13 +13,13 @@ export default function TabsExample(props) {
   const tabs = [
     {
       id: "all-customers-1",
-      content: "Overview",
+      content: "Repository",
       accessibilityLabel: "All customers",
       panelID: "all-customers-content-1",
     },
     {
       id: "accepts-marketing-1",
-      content: "Accepts marketing",
+      content: "Gists",
       panelID: "accepts-marketing-content-1",
     },
     {
